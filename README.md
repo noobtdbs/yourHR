@@ -25,7 +25,7 @@ YourHR/
 │   │   ├── App.js
 │   │   └── index.js
 │   ├── package.json
-├── server/
+├── backend/
 │   ├── config/
 │   │   └── cloudinaryConfig.js
 │   ├── models/
@@ -87,7 +87,7 @@ YourHR/
 1. **Navigate to the `frontend` directory**:
 
    ```bash
-   cd ../frontend
+   cd ../client
    ```
 
 2. **Install frontend dependencies**:
