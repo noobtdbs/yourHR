@@ -82,6 +82,12 @@ YourHR/
    node server.js
    ```
 
+5. **Backend Server Running**:
+
+   ```bash
+   https://yourhr-pfd3.onrender.com
+   ```
+
 ### Frontend Setup
 
 1. **Navigate to the `frontend` directory**:
