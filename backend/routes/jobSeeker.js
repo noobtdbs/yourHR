@@ -1,7 +1,7 @@
 // server/routes/jobSeeker.js
 const express = require('express');
 const multer = require('multer');
-const cloudinary = require('../config/cloudinaryConfig');
+const cloudinary = require('../config/CloudinaryConfig');
 const JobSeeker = require('../models/JobSeeker');
 const path = require('path');
 const fs = require('fs');
